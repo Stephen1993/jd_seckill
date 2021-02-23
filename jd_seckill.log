@@ -1,0 +1,65 @@
+2020-12-29 10:56:07,367 - 62545-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:308] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2020-12-29 10:56:07,513 - 62545-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2020-12-29 10:56:08,140 - 62545-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 10:56:10,203 - 62545-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 10:56:12,258 - 62545-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 10:56:14,312 - 62545-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:27:50,623 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:308] - INFO: reserve 需登陆后调用，开始扫码登陆
+2020-12-29 11:27:51,177 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2020-12-29 11:27:51,519 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:27:53,784 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:27:56,132 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:27:58,467 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:28:00,664 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:28:02,866 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:28:05,124 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:28:07,336 - 63689-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:50:20,753 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:308] - INFO: reserve 需登陆后调用，开始扫码登陆
+2020-12-29 11:50:21,423 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2020-12-29 11:50:21,676 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:50:23,942 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:50:26,113 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:50:28,398 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:50:30,720 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2020-12-29 11:50:33,046 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2020-12-29 11:50:33,687 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:262] - INFO: 二维码登录成功
+2020-12-29 11:50:34,429 - 64470-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 11:50:34,707 - 64470-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【-381】毫秒
+2020-12-29 11:55:16,786 - 64622-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 11:55:17,114 - 64622-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-29 09:59:59.500000，检测本地时间与京东服务器时间误差为【-258】毫秒
+2020-12-29 11:55:17,115 - 64622-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:50] - INFO: 时间到达，开始执行……
+2020-12-29 11:55:17,388 - 64622-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:383] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2020-12-29 15:02:08,704 - 2787-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:461] - INFO: 用户:siryuming
+2020-12-29 15:02:08,733 - 2789-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:461] - INFO: 用户:siryuming
+2020-12-29 15:02:08,796 - 2786-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:461] - INFO: 用户:siryuming
+2020-12-29 15:02:08,963 - 2787-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 15:02:08,963 - 2787-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【-56】毫秒
+2020-12-29 15:02:09,078 - 2789-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 15:02:09,079 - 2789-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【-56】毫秒
+2020-12-29 15:02:09,180 - 2786-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 15:02:09,180 - 2786-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【-56】毫秒
+2020-12-29 15:02:09,352 - 2790-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:461] - INFO: 用户:siryuming
+2020-12-29 15:02:09,460 - 2788-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:461] - INFO: 用户:siryuming
+2020-12-29 15:02:09,494 - 2790-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 15:02:09,494 - 2790-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【-56】毫秒
+2020-12-29 15:02:09,624 - 2788-MainThread - /data_liziqiang/process/jd_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2020-12-29 15:02:09,624 - 2788-MainThread - /data_liziqiang/process/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【-56】毫秒
+2021-02-23 15:03:35,969 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:308] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-02-23 15:03:36,902 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-02-23 15:03:37,423 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:39,537 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:41,677 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:43,820 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:45,869 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:48,105 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:50,210 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:52,256 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:54,319 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:56,430 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:03:58,493 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:04:00,589 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:04:02,648 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-02-23 15:04:05,247 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2021-02-23 15:04:19,099 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:262] - INFO: 二维码登录成功
+2021-02-23 15:04:21,948 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/jd_spider_requests.py[line:365] - INFO: 商品名称:【华为Mate X2】华为 HUAWEI Mate X2 麒麟9000旗舰芯片 无缝鹰翼折叠 超感知徕卡四摄支持100倍双目变焦256GB釉白色5G全网通【行情 报价 价格 评测】-京东
+2021-02-23 15:04:22,557 - 54632-MainThread - /Users/stephen/Downloads/jd_seckill/timer.py[line:45] - INFO: 正在等待到达设定时间:2021-02-25 10:08:00.500000，检测本地时间与京东服务器时间误差为【143393】毫秒
